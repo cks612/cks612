@@ -32,7 +32,7 @@
 
 <div align="center" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cks612&layout=compact)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=cks612&layout=compact)
 
 </div>
 
@@ -56,6 +56,6 @@
 
 <div align="center">
   
-![cks612](https://github-readme-stats.vercel.app/api?username=cks612&show_icons=true&theme=flag-india)
+![cks612](https://readme-stats.clckblog.space/api?username=cks612&show_icons=true&theme=flag-india)
 
 </div>
